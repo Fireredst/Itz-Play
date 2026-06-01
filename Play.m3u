@@ -2275,6 +2275,9 @@ __________________________________________Asean U19_____________________________
 #http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
 http://103.148.44.38:8000/play/a05c/index.m3u8
 
+#EXTINF:-1 tvg-name="FIFA" tvg-logo="https://i.imgur.com/mL2azzp.jpeg" tvg-id="itzreisa.id" group-title="Live Event Tim Nasional", Asean U19 (SCTV Digital)
+#http://103.148.44.38:8000/play/a05g/index.m3u8
+http://opplextv.cyou:8080/nasir6160/nasir/351030
 //////////////////////////// Live Event Europe League //////////////////////////////////////////////////
 
 #EXTINF:-1 group-logo="https://i.imgur.com/L3cehc7.png" group-title="Live Event Europe League"
